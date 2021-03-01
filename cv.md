@@ -2,7 +2,7 @@
 
 ## Personal Data
   Location: Mogilev, Belarus  
-  Mobile phone (viber, telegram): +375(29)743-00-84  
+  Mobile phone: +375(29)743-00-84  
   Discord: yafimenka  
   GitHub: [yafimenka](https://github.com/yafimenka/)  
   E-mail: fime@bk.ru  
